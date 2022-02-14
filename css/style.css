@@ -91,18 +91,61 @@ transition: 0.5s ease;
 }
 @keyframes slider 
 {
-    0%{left: 0; transform: 1.5;}
-    20%{left: 0;}
-    25%{left: -100%;}
-    45%{left:-100%;}
-    50%{left: -200%;}
-    70%{left: -200%;}
-    75%{left: -300%;}
-    95%{left: -300%;}
-    100%{left:-400%;}
+    0%{left: 0; transform: scale(1.5); opacity: 0.2;}
+    20%{left: 0; transform: scale(1); opacity: 1;}
+    25%{left: -100%; transform: scale(1.5); opacity: 0.2;}
+    45%{left:-100%; transform: scale(1); opacity: 1;}
+    50%{left: -200%; transform: scale(1.5); opacity: 0.2;}
+    70%{left: -200%; transform: scale(1); opacity: 1;}
+    75%{left: -300%; transform: scale(1.5); opacity: 0.2;}
+    95%{left: -300%; transform: scale(1); opacity: 1;}
+    100%{left:-400%; transform: scale(1.5); opacity: 0.2;}
 
 }
 
+.slider 
+{
+    max-width: 700px;
+    border: 10px solid black;
+    margin: 50px auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.slider .left-slide, .slider .right-slide
+{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background: gold;
+    border-radius: 50px;
+    top: 50%;
+}
+
+.slider .slider-items .items
+{
+   width: 400%;
+   margin: 0;
+   left: 0;
+   display: flex;
+}
+
+.slider .slider-items .item
+{
+    display: none;
+    position: relative;
+    width: 25%;
+}
+
+.slider .slider-items .item.active
+{
+    display: block;
+}
+.slider .slider-items img
+{
+    width: 100%;
+    display: block;
+}
 .slider_container figure img 
 {
     width: 10%;

@@ -24,6 +24,82 @@
         </figure>
     </div>
 
+    <div class="slider">
+       <div class="slider-items">
+          <div class="item active">
+          <img src="images/slider/slider23.jpg" alt="">
+          <div class="caption">
+              Slider 1
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider29.jpg" alt="">
+          <div class="caption">
+              Slider 2
+
+
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider25.jpg" alt="">
+          <div class="caption">
+              Slider 3
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider26.jpg" alt="">
+          <div class="caption">
+              Slider 4
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider27.jpg" alt="">
+          <div class="caption">
+              Slider 5
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider28.jpg" alt="">
+          <div class="caption">
+              Slider 6
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider30.jpg" alt="">
+          <div class="caption">
+              Slider 7
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider31.jpg" alt="">
+          <div class="caption">
+              Slider 8
+          </div>
+          </div>
+
+          <div class="item">
+          <img src="images/slider/slider34.jpg" alt="">
+          <div class="caption">
+              Slider 9
+
+          </div>
+          </div>
+
+          <!-- Slider Controls -->
+              <div class="left-slide"><</div>
+              <div class="right-slide"/>></div>
+           <!--  slider control ends-->
+          
+       </div>
+    </div>
+
     <div class="homepage_container">
         <div class="product_container">
             <div class="product">
