@@ -145,5 +145,7 @@
 
 
    <?php include "include/footer.php"; ?>
+
+   <script scr="javasript/script.js"></script>
 </body>
 </html>
