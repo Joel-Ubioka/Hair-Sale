@@ -27,67 +27,67 @@
     <div class="slider">
        <div class="slider-items">
           <div class="item active">
-          <img src="images/slider/slider23.jpg" alt="">
+          <img src="images/slider/slider23.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 1
+              <h1>BRAZILIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider29.jpg" alt="">
+          <img src="images/slider/slider29.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 2
+          <h1>PERUVIAN HAIR</h1>
 
 
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider25.jpg" alt="">
+          <img src="images/slider/slider25.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 3
+          <h1>INDIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider26.jpg" alt="">
+          <img src="images/slider/slider26.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 4
+          <h1>CAMBODIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider27.jpg" alt="">
+          <img src="images/slider/slider27.jpg"width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 5
+          <h1>BRAZILIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider28.jpg" alt="">
+          <img src="images/slider/slider28.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 6
+          <h1>INDIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider30.jpg" alt="">
+          <img src="images/slider/slider30.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 7
+          <h1>CAMBODIAN HAIR</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider31.jpg" alt="">
+          <img src="images/slider/slider31.jpg"width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 8
+          <h1>WEAVE</h1>
           </div>
           </div>
 
           <div class="item">
-          <img src="images/slider/slider34.jpg" alt="">
+          <img src="images/slider/slider34.jpg" width="800px" height="500px" alt="">
           <div class="caption">
-              Slider 9
+          <h1>BRAZILIAN HAIR</h1>
 
           </div>
           </div>
@@ -143,9 +143,9 @@
         <a href="product.php"><button type="submit" class="product_button">More Products >></button></a>
     </div>
 
-
+    <i class="fa-solid fa-magnifying-glass"></i>
    <?php include "include/footer.php"; ?>
 
-   <script scr="javasript/script.js"></script>
+   <script src="javascript/script.js"></script>
 </body>
 </html>

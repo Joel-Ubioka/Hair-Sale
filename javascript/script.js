@@ -16,7 +16,7 @@ prevSlide.onclick=function ()
 
 function next(direction)
 {
-    if (direction==next)
+    if (direction=="next")
     {
         index++
         if(index==totalSlide)
