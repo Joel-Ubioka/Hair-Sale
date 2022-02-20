@@ -9,11 +9,11 @@
         </div>
 
         <ul class="menu_items">
-            <li><a href="index.php">HOME</a></li>
-            <li><a href="about_us.php">ABOUT US</a></li>
-            <li><a href="product.php">PRODUCT & SERVICES</a></li>
-            <li><a href="blog.php">BLOG</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="index.php"><i class="fa-solid fa-house"></i> HOME</a></li>
+            <li><a href="about_us.php"><i class="fa-solid fa-address-card"></i> ABOUT US</a></li>
+            <li><a href="product.php"><i class="fa-brands fa-product-hunt"></i> PRODUCT & SERVICES</a></li>
+            <li><a href="blog.php"><i class="fa-solid fa-blog"></i> BLOG</a></li>
+            <li><a href="contact.php"><i class="fa-solid fa-id-card-clip"></i> CONTACT</a></li>
         </ul>
         <div class="hamburger" id="hamburger_menu">
             <div class="line"></div>
@@ -22,11 +22,11 @@
         </div>
 
         <ul class="media_menu_items"  id="media_menu">
-            <li><a href="index.php">HOME</a></li>
-            <li><a href="about_us.php">ABOUT US</a></li>
-            <li><a href="product.php">PRODUCT & SERVICES</a></li>
-            <li><a href="blog.php">BLOG</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="index.php"><i class="fa-solid fa-house"></i> HOME</a></li>
+            <li><a href="about_us.php"><i class="fa-solid fa-address-card"></i> ABOUT US</a></li>
+            <li><a href="product.php"><i class="fa-brands fa-product-hunt"></i> PRODUCT & SERVICES</a></li>
+            <li><a href="blog.php"><i class="fa-solid fa-blog"></i> BLOG</a></li>
+            <li><a href="contact.php"><i class="fa-solid fa-id-card-clip"></i> CONTACT</a></li>
         </ul>
     </div>
 

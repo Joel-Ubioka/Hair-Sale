@@ -147,5 +147,6 @@
    <?php include "include/footer.php"; ?>
 
    <script src="javascript/script.js"></script>
+   <script src="javascript/script2.js"></script>
 </body>
 </html>
